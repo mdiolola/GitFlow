@@ -2,6 +2,7 @@
     "changes" : {
         "addRecord" : "commit to master",
         "createDev" : "I created a new branch called dev",
-        "UpdateDev" : "I just feel updating the dev branch again."
+        "UpdateDev" : "I just feel updating the dev branch again.",
+        "CreateFeature" : "It's time to create an awesome features."
     }
 }
