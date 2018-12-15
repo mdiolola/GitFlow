@@ -1,6 +1,7 @@
 {
     "changes" : {
         "addRecord" : "commit to master",
-        "createDev" : "I created a new branch called dev"
+        "createDev" : "I created a new branch called dev",
+        "UpdateDev" : "I just feel updating the dev branch again."
     }
 }
