@@ -3,6 +3,7 @@
         "addRecord" : "commit to master",
         "createDev" : "I created a new branch called dev",
         "UpdateDev" : "I just feel updating the dev branch again.",
-        "CreateFeature" : "It's time to create an awesome features."
+        "CreateFeature" : "It's time to create an awesome features.",
+        "Update the Feature" : "Cool features added here."
     }
 }
