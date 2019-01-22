@@ -5,10 +5,13 @@ namespace gitflow
         public string hotfix { get; set; }
         public string hotfix2 { get; set; }
         public string release2 { get; set; }
+        public string update1 { get; set; }
+        public string update2 { get; set; }
         public int fine { get; set; }
     }
     public class sprint
     {
         public string sprinting { get; set; }
+
     }
 }
