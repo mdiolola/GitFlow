@@ -9,5 +9,9 @@ namespace gitflow
     public class sprint
     {
         public string sprinting { get; set; }
+<<<<<<< HEAD
+=======
+
+>>>>>>> e382e3d3b458bbb5a8ef85b85900647dbe085914
     }
 }
