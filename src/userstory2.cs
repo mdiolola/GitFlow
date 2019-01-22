@@ -4,5 +4,6 @@ namespace gitflow
     {
         public string Error { get; set; }
         public string NoError { get; set; }
+        public string update1 { get; set; }
     }
 }
