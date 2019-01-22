@@ -10,6 +10,7 @@ namespace gitflow
         public int fine { get; set; }
         public string sp2update1 { get; set; }
         public string sp2update2 { get; set; }
+        public string sp2update3 { get; set; }
     }
     public class sprint
     {
