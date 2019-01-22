@@ -1,6 +1,7 @@
 {
     "changes": {
         "addRecord": "commit to master",
-        "trunk": "Start of Trunk"
+        "trunk": "Start of Trunk",
+        "released": "0.0.1"
     }
 }
